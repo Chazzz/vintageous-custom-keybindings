@@ -1,0 +1,7 @@
+[
+	{"keys": ["ctrl+alt+m"], "command": "toggle_menu"},
+	{"keys": ["h"], "command": "press_key", "args": {"key": "j"}, "context": [{"key": "vi_command_mode_aware"}]},
+	{"keys": ["t"], "command": "press_key", "args": {"key": "k"}, "context": [{"key": "vi_command_mode_aware"}]},
+	{"keys": ["k"], "command": "press_key", "args": {"key": "t"}, "context": [{"key": "vi_command_mode_aware"}]},
+	{"keys": ["j"], "command": "press_key", "args": {"key": "h"}, "context": [{"key": "vi_command_mode_aware"}]},
+]
